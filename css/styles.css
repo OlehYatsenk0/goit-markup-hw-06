@@ -31,7 +31,7 @@ body {
 }
 
 /* weblogo */
- .weblogo {
+ .logo {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -39,9 +39,7 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
-        margin-right: 76px;
-        padding: 24px 0;
-        display: inline-block;
+        
  }
 .weblogotwo {
 font-family: "Raleway", sans-serif;
@@ -81,7 +79,7 @@ font-family: "Raleway", sans-serif;
 }
 
 
-.weblogo .logo-header {
+.logo .logo-header {
     display: flex;
     align-items: center;
     margin-right: 76px
